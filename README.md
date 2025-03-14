@@ -29,7 +29,7 @@
 - 🔐 **JWT Authentication** – Ensuring secure user sessions and data.
 - 🛠 **Multer** – Handling file uploads for sharing photos and files.
 - 🏗 **Express.js** – A robust framework for building the API.
-- ☁️ **AWS** – Backend hosting on AWS EC2.
+- ☁️ **Render** – Backend hosting for scalability and performance.
 - 🚀 **Netlify** – Frontend deployment for blazing-fast delivery.
 
 ## 📂 Folder Structure
@@ -46,11 +46,19 @@
 
 ## 🖥️ Real-Time Features Breakdown
 
+### **Login**
+![Screenshot 2025-03-14 203043](https://github.com/user-attachments/assets/5d48f6dc-74c0-4936-8661-1140f9ee708f)
+
+ **SignUp**
+###![Screenshot 2025-03-14 203106](https://github.com/user-attachments/assets/ea6b0b73-6a33-43d4-b4b8-9678ae5f06e3)
+
 ### **Dashboard**
 
 - **Overview:** Displays user activities, notifications, recent chats, and profile updates.
 - **Widgets:** Quick access to personal messages, group chats, and file-sharing activities.
 - **Future Enhancements:** Integration of summary graphs and analytics (with placeholder images to be added).
+
+  
 
 ### **One-to-One Chat**
 
