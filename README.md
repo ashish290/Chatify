@@ -49,24 +49,28 @@
 ### **Login**
 ![Screenshot 2025-03-14 203043](https://github.com/user-attachments/assets/5d48f6dc-74c0-4936-8661-1140f9ee708f)
 
- **SignUp**
-###![Screenshot 2025-03-14 203106](https://github.com/user-attachments/assets/ea6b0b73-6a33-43d4-b4b8-9678ae5f06e3)
+### **SignUp**
+![Screenshot 2025-03-14 203106](https://github.com/user-attachments/assets/ea6b0b73-6a33-43d4-b4b8-9678ae5f06e3)
+
+### **Profile-Section**
+![Screenshot 2025-03-14 210109](https://github.com/user-attachments/assets/3a8d053e-fdc5-4728-9a1b-9c63c68101df)
 
 ### **Dashboard**
+![Screenshot 2025-03-14 210211](https://github.com/user-attachments/assets/1a43e98a-8ef4-4814-a3d5-b8663e8a255c)
 
 - **Overview:** Displays user activities, notifications, recent chats, and profile updates.
 - **Widgets:** Quick access to personal messages, group chats, and file-sharing activities.
 - **Future Enhancements:** Integration of summary graphs and analytics (with placeholder images to be added).
 
-  
-
 ### **One-to-One Chat**
+![Screenshot 2025-03-14 210952](https://github.com/user-attachments/assets/198d1035-7656-404d-93f3-f302d5856204)
 
 - **Personal Messaging:** Secure direct messaging with robust search functionality to find contacts quickly.
 - **File & Photo Sharing:** Attach and preview files, photos, and emojis directly in your conversation.
 - **User Experience:** Clean, real-time messaging interface for a focused conversation experience.
 
 ### **Group Chat**
+![Screenshot 2025-03-14 212633](https://github.com/user-attachments/assets/2d56ada2-757d-4770-9140-dcbcdeb8a0c5)
 
 - **Dynamic Group Creation:** Easily create group chats, add or remove participants, and manage group settings.
 - **Real-Time Updates:** Immediate broadcast of messages, file shares, and emoji reactions to all group members.
