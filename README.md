@@ -44,7 +44,6 @@
 │   ├── 📂 utils         # Utility functions and helpers
 ├── 📄 README.md         # Project documentation
 
-
 ## 🖥️ Real-Time Features Breakdown
 
 ### **Dashboard**
