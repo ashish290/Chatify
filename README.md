@@ -35,14 +35,14 @@
 ## 📂 Folder Structure
 
 📦 chatify
-├── 📂 frontend          # React frontend with Tailwind CSS, ShadCN UI, and Zustand
-├── 📂 backend           # Node.js & TypeScript backend services
-│   ├── 📂 controllers   # Express controllers & socket event handlers
-│   ├── 📂 middleware    # JWT authentication and other middleware
-│   ├── 📂 models        # Mongoose models for chats, messages, and users
-│   ├── 📂 routes        # API routes and socket endpoints
-│   ├── 📂 utils         # Utility functions and helpers
-├── 📄 README.md         # Project documentation
+-├── 📂 frontend          # React frontend with Tailwind CSS, ShadCN UI, and Zustand
+-├── 📂 backend           # Node.js & TypeScript backend services
+-│   ├── 📂 controllers   # Express controllers & socket event handlers
+-│   ├── 📂 middleware    # JWT authentication and other middleware
+-│   ├── 📂 models        # Mongoose models for chats, messages, and users
+-│   ├── 📂 routes        # API routes and socket endpoints
+-│   ├── 📂 utils         # Utility functions and helpers
+-├── 📄 README.md         # Project documentation
 
 ## 🖥️ Real-Time Features Breakdown
 
@@ -79,7 +79,7 @@
 ## 🌍 Deployment
 
 - 🚀 **Frontend:** Deployed on **Netlify** for fast, reliable access.
-- 🚀 **Backend:** Hosted on **AWS EC2**, ensuring scalability and robustness.
+- 🚀 **Backend:** Hosted on **Render**, ensuring scalability and robustness.
 
 ## 🔮 Future Plans
 
