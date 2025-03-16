@@ -16,12 +16,7 @@ try {
     app.use(express.json());
     app.use(express.urlencoded({ extended: true }));
     app.use(cookieParser());
-    app.use(
-      cors({
-        origin: process.env.ORIGIN,
-        credentials: true,
-      })
-    );
+    app.use(cors());
     app.use('/uploads/profiles', express.static('uploads/profiles'));
     app.use('/uploads/files', express.static('uploads/files'));
 
